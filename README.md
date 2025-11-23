@@ -2,8 +2,8 @@
 
 # DSA Array ADT
 
-!C++(https://img.shields.io/badge/language-C++-blue.svg)
-!License: MIT(https://img.shields.io/badge/License-MIT-yellow.svg)
+![C++](https://img.shields.io/badge/language-C++-blue.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 A complete implementation of a Dynamic Array Abstract Data Type in C++.
 
